@@ -9,11 +9,7 @@ namespace eDziennik.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-        public IActionResult Details()
+        public IActionResult Privacy() //test
         {
             return View();
         }
