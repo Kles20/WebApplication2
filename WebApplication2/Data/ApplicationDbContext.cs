@@ -14,3 +14,4 @@ namespace eDziennik.Data
         public DbSet<Event> Events { get; set; }
     }
 }
+//test
