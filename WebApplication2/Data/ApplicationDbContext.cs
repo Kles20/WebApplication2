@@ -15,4 +15,4 @@ namespace eDziennik.Data
         public DbSet<Event> Events { get; set; }
     }
 }
-//sadhasdgashfg12312341
+//sadhasdgashfg123123411
